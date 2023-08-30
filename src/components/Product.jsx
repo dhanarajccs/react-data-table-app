@@ -78,7 +78,7 @@ const Product = () => {
 
   return ( 
     <div>
-      <h3>Product List</h3>
+      <h4>Product List</h4>
       <DataTable 
         customStyles={tableHeaderStyle}
         columns={columns}

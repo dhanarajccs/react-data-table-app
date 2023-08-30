@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div className='App'>
-        <h2 className='mt-3'>React Datatable Component</h2>
+        <h2 className='mt-3'>React Datatable Component Tutorial</h2>
         <Product />
       </div>
     </>
